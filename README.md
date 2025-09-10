@@ -1,12 +1,11 @@
 # 👋 ¡Hola! Soy Mario Miranda
 
-🎯 Desarrollador Backend apasionado por construir soluciones eficientes, robustas y bien estructuradas.  
-💻 Actualmente trabajando con **Java + Spring Boot** y **JavaScript con Node.js**.  
-🛠️ Enfocado en crear APIs REST limpias, mantenibles y seguras.
+🎯 Desarrollador Backend especializado en la construcción de soluciones eficientes, seguras y escalables.  
+💻 Trabajo con **Java + Spring Boot** y **JavaScript con Node.js**, creando APIs RESTful robustas y bien estructuradas.
 
 ---
 
-## 🚀 Tecnologías que uso
+## 🚀 Tecnologías que domino
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -18,21 +17,22 @@
 
 ---
 
-## 🧠 Actualmente aprendiendo
+## 🧠 Experiencia
 
-- Arquitectura de microservicios
-- Buenas prácticas de APIs RESTful
-- Integración de bases de datos relacionales
-- Automatización de pruebas con Postman y JUnit
+- Desarrollo de servicios backend con **Spring Boot** siguiendo principios SOLID y buenas prácticas.
+- Creación de APIs RESTful eficientes con **Node.js** y Express.
+- Modelado e integración de bases de datos relacionales con **MySQL**.
+- Documentación y pruebas de APIs con **Postman**.
+- Control de versiones con **Git** y trabajo en equipos colaborativos.
 
 ---
 
 ## 📫 Conecta conmigo
 
-[![Correo](https://img.shields.io/badge/Correo-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adsotarde@gmail.com)
+[![Correo](https://img.shields.io/badge/Correo-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu.correo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Mams117)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/miranda17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tuusuario)
 
 ---
 
-⭐ Gracias por visitar mi perfil. ¡Vamos a construir algo increíble!
+⭐ Gracias por visitar mi perfil. ¡Conectemos y construyamos soluciones increíbles!
